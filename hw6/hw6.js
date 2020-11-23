@@ -1,3 +1,11 @@
+// Jesse McCarville-Schueths
+// Nov 22 2020
+// Added a checkbox light? which, if checked, smoothly rotates light on top of the currently selected
+// object using y-roll (see video).
+// If unchecked, the light stops rotating and stays right where it is now until it’s checked again.
+// All other GUI menu items should work the same as before.
+
+
 var VSHADER_SOURCE =`#version 300 es
    in vec4 a_Position; // vertex position 
    in vec4 a_Normal; // vertex normal 
