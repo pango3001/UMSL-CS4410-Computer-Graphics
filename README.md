@@ -1,11 +1,9 @@
 # UMSL-CS4410-Computer-Graphics
 Repo for Computer Graphics projects using webgl (glsl and javascript)
 
-## Computer Graphics
-
 ## Department of Mathematics and Computer Science
 
-## Semester: 20 20 Fall
+## Semester: 2020 Fall
 
 #### Instructor Details
 
@@ -20,7 +18,7 @@ Class Times & Location: Online
 
 ### Course description
 
-Prerequisites: CMP SCI 2 261. Covers the theoretical foundation and algorithms for computer graphics. Students learn
+Prerequisites: CMP SCI 2261. Covers the theoretical foundation and algorithms for computer graphics. Students learn
 the basics of graphics programming for modeling, rendering, and animation of 2D and 3D objects. Vector and raster
 graphics, and different displays devices are also discussed. A brief discussion of special graphics hardware, such as GPU,
 may be presented.
@@ -48,25 +46,24 @@ Item Weight
 Quizzes 10 %
 Test 1 15 %
 Test 2 15 %
-Assignments 6 0%
+Assignments 60%
 ```
 
 ## Computer Graphics
 
 ## Department of Mathematics and Computer Science
 
-## Semester: 20 20 Fall
+## Semester: 2020 Fall
 
 ### Course schedule (tentative)
 
-_Week Topics to cover_
-Module 1 2D Programming basics
-Module 2 Transformations
-Module 3 Animation/Coloring
-Module 4 Imaging/GUI
-Module 5 3D Programming basics
-Module 6 Lighting
-Module 7 Texture Mapping
+-Module 1 2D Programming basics
+-Module 2 Transformations
+-Module 3 Animation/Coloring
+-Module 4 Imaging/GUI
+-Module 5 3D Programming basics
+-Module 6 Lighting
+-Module 7 Texture Mapping
 
 ### Learning mode
 
