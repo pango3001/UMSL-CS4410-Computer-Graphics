@@ -57,13 +57,13 @@ Assignments 60%
 
 ### Course schedule (tentative)
 
--Module 1 2D Programming basics
--Module 2 Transformations
--Module 3 Animation/Coloring
--Module 4 Imaging/GUI
--Module 5 3D Programming basics
--Module 6 Lighting
--Module 7 Texture Mapping
+- Module 1 2D Programming basics
+- Module 2 Transformations
+- Module 3 Animation/Coloring
+- Module 4 Imaging/GUI
+- Module 5 3D Programming basics
+- Module 6 Lighting
+- Module 7 Texture Mapping
 
 ### Learning mode
 
